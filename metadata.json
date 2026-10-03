@@ -1,0 +1,8 @@
+{
+  "name": "Remix Industrial Auditing Management System",
+  "description": "Cross-platform industrial ISO auditing, planning, execution, findings, and compliance management system for petrochemical and manufacturing facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

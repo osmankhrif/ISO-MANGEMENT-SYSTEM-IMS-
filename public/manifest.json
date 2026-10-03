@@ -1,0 +1,45 @@
+{
+  "id": "/",
+  "name": "ISO Management System (IMS)",
+  "short_name": "ISO IMS",
+  "description": "Industrial Management System for ISO 9001, ISO 14001, and ISO 45001 auditing, compliance, and quality governance by Osman Khrif.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "lang": "en-US",
+  "dir": "ltr",
+  "categories": [
+    "business",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
